@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="RobotUI.AgressiveBehaviour"/>
+<fullyQualifiedTypeName name="java.awt.Robot"/>
+<fullyQualifiedTypeName name="Controller.Robot"/>
+<fullyQualifiedTypeName name="RobotUI.IBehaviour"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="Interfaces.IBehaviour"/>
+<fullyQualifiedTypeName name="RobotUI.DefensiveBehaviour"/>
+<fullyQualifiedTypeName name="Controller.RobotController"/>
+</qualifiedTypeNameHistroy>

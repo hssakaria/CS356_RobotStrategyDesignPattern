@@ -1,0 +1,19 @@
+package RobotUI;
+
+import Interfaces.IBehaviour;
+
+public class AgressiveBehaviour implements IBehaviour {
+
+	@Override
+	public String moveCommand() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String titleCommand() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
